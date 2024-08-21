@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthik-0-8
+- 👋 Hi, I’m Annapureddy Karthikeya Reddy
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me at keyareddykarthik@gmail.com
 
